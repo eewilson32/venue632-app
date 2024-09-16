@@ -8,7 +8,7 @@ function Header() {
     <header>
       <nav>
         <ul>
-          <li><a href="/venue632-app/#home">Home</a></li>
+          <li><a href="/venue632-app/">Home</a></li>
           <li><a href="#">FAQ & Support</a></li>
           <li><a href="#">Account Sign-Up/Login</a></li>
           <li><a href="#">Venue Policies</a></li>
