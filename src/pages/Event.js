@@ -10,7 +10,7 @@ function EventPage() {
 
   useEffect(() => {
     // Fetch the events data from the JSON file
-    fetch('/Event-Venue-Ticket-Purchasing-React-Webapp/events-mock-data.json') // Change the path accordingly
+    fetch('/venue632-app/events-mock-data.json') // Change the path accordingly
       .then((response) => {
         if (!response.ok) {
           throw new Error(`Failed to fetch event data. Error: ${response.status} ${response.statusText}`);

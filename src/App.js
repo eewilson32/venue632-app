@@ -15,8 +15,6 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/event/:eventName/:eventDate" element={<Event />}/>
-        
-        {/*paths for buttons on Events.js page*/}
         <Route path="/home" element={<Home />} />
         <Route path="/tickets" element={<Tickets />} />
         <Route path="/cart" element={<Cart />} />
