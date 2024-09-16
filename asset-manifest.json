@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/venue632-app/static/css/main.b5af71fd.css",
-    "main.js": "/venue632-app/static/js/main.ad1e4e3d.js",
+    "main.js": "/venue632-app/static/js/main.33953101.js",
     "static/js/453.7e9cfab3.chunk.js": "/venue632-app/static/js/453.7e9cfab3.chunk.js",
     "index.html": "/venue632-app/index.html",
     "main.b5af71fd.css.map": "/venue632-app/static/css/main.b5af71fd.css.map",
-    "main.ad1e4e3d.js.map": "/venue632-app/static/js/main.ad1e4e3d.js.map",
+    "main.33953101.js.map": "/venue632-app/static/js/main.33953101.js.map",
     "453.7e9cfab3.chunk.js.map": "/venue632-app/static/js/453.7e9cfab3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5af71fd.css",
-    "static/js/main.ad1e4e3d.js"
+    "static/js/main.33953101.js"
   ]
 }
