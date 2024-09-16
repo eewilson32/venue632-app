@@ -13,7 +13,7 @@ function App() {
       {/* Header will be rendered once for all routes */}
       <Header />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="#/" element={<Home />} />
         <Route path="/event/:eventName/:eventDate" element={<Event />}/>
         <Route path="/tickets" element={<Tickets />} />
         <Route path="/cart" element={<Cart />} />
