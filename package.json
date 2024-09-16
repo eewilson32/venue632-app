@@ -1,8 +1,8 @@
 {
+  "homepage": "https://eewilson32.github.io/venue632-app/",
   "name": "2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eewilson32.github.io/venue632-app/",
   "dependencies": {
     "2": "file:",
     "@testing-library/jest-dom": "^5.17.0",
