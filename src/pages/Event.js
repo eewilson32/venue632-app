@@ -85,7 +85,7 @@ function EventPage() {
         <li>Balcony: ${event.ticketPrices.balcony}</li>
       </ul>
       <div style = {{ display: 'flex', justifyContent: 'center', gap: '20px'}}>
-        <Link to= "/Home">
+        <Link to= "/">
       <button 
           style = {{
             display: 'block',

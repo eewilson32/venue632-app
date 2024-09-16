@@ -2,7 +2,6 @@ import React from 'react';
 import '../styles.css';
 
 function Header() {
-  const baseUrl = process.env.REACT_APP_BASE_URL || '';
 
   return (
     <header>
