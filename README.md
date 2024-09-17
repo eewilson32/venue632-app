@@ -1,7 +1,7 @@
 
 # Event-Venue-Ticket-Purchasing-React-Webapp
 
-See deployed project [here](https://sosophia10.github.io/Event-Venue-Ticket-Purchasing-React-Webapp).
+See deployed project (https://eewilson32.github.io/venue632-app/).
 
 # Getting Started with Create React App
 
